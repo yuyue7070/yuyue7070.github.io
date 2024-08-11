@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>yuyue</title>
-    <link>https://example.org/</link>
+    <link>https://yuyue7070.github.io/</link>
     <description>Recent content on yuyue</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 11 Aug 2024 21:59:28 +0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yuyue7070.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试</title>
-      <link>https://example.org/post/first/</link>
+      <link>https://yuyue7070.github.io/post/first/</link>
       <pubDate>Sun, 11 Aug 2024 21:59:28 +0800</pubDate>
-      <guid>https://example.org/post/first/</guid>
+      <guid>https://yuyue7070.github.io/post/first/</guid>
       <description>FIRST #include &amp;lt;stdio.h&amp;gt; </description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/readme/</link>
+      <link>https://yuyue7070.github.io/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/readme/</guid>
+      <guid>https://yuyue7070.github.io/readme/</guid>
       <description>Hello World!&#xA;hi </description>
     </item>
   </channel>
