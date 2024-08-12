@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selenium on yuyue</title>
+    <link>https://yuyue7070.github.io/tags/selenium/</link>
+    <description>Recent content in Selenium on yuyue</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 12 Aug 2024 22:34:28 +0800</lastBuildDate>
+    <atom:link href="https://yuyue7070.github.io/tags/selenium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selenium</title>
+      <link>https://yuyue7070.github.io/post/selenium/</link>
+      <pubDate>Mon, 12 Aug 2024 22:34:28 +0800</pubDate>
+      <guid>https://yuyue7070.github.io/post/selenium/</guid>
+      <description>selenium库的一些基础</description>
+    </item>
+  </channel>
+</rss>
